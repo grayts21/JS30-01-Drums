@@ -1,0 +1,17 @@
+{
+  "name": "javascript-development-environment",
+  "version": "1.0.0",
+  "description": "Drums",
+  "scripts": {
+    "start": "sadf"
+
+  },
+  "author": "Anthony Gray",
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
