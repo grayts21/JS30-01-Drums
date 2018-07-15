@@ -9,7 +9,7 @@ window.addEventListener('keydown', function (e) {
 
 })
 
-function removeTrasition (e) {
+function removeTrasition(e) {
   if (e.propertyName !== 'transform') {
     return;
   };
